@@ -39,7 +39,7 @@ Trong-Nhan Nguyen, Luan L. M. Nguyen, **Phat-Dat To**, Tran-Quoc Duy Nguyen, Anh
 Hybrid CNN–Transformer framework with sparse Mixture-of-Experts routing for ENT anatomical classification, achieving **97.50% accuracy** across seven classes.
 
 **2. Enhancing Vietnamese VQA-NLE via Learning to Explain with GRPO**  
-Quang-Minh Tran<sup>*</sup>, **Phat-Dat To<sup>*</sup>**, Huu-Phuoc Le, Duc-Manh Nguyen, Truong-Binh Duong  
+Quang-Minh Tran<sup>*</sup> *, **Phat-Dat To** <sup>*</sup> *, Huu-Phuoc Le, Duc-Manh Nguyen, Truong-Binh Duong  
 *ICISN 2026* · **[Code](https://github.com/T-Sunm/VINLE-GRPO)**  
 Structured Group Relative Policy Optimization (GRPO) with composite rewards for Vietnamese visual question answering with natural language explanations, improving answer accuracy by **16.05 percentage points** over supervised fine-tuning.
 
